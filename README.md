@@ -34,6 +34,8 @@ Module 14 Challenge
 
 ## Submission
 To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
+Kindly find the page deployed below:
+https://alejandrofelicito.github.io/belly-button-challenge/
 
 
 ## Credits 
