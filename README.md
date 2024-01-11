@@ -37,9 +37,6 @@ To submit your Challenge assignment, click Submit, and then provide the URL of y
 Kindly find the page deployed below:
 https://alejandrofelicito.github.io/belly-button-challenge/
 
-Kindly find the page deployed below:
-https://github.com/AlejandroFelicito/belly-button-challenge/blob/main/StarterCode/index.html
-
 
 ## Credits 
 * Received comments and guidance from Instructor, Teaching Assistant
