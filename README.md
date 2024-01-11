@@ -29,7 +29,7 @@ Module 14 Challenge
 ### Metadata and Deployment (30 points)
 - [X] Metadata initializes without error (10 points)
 - [X] Metadata updates when a new sample is selected (10 points)
-- [] App Successfully Deployed to Github Pages (10 points)
+- [X] App Successfully Deployed to Github Pages (10 points)
 
 
 ## Submission
